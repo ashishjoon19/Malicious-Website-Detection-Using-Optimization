@@ -1,0 +1,20 @@
+Feature Selection: Whale Optimization Algorithm (WOA)
+Selected Features: 42
+
+Baseline Model: CatBoost
+Accuracy: 95.11%
+
+Optimized Model: CatBoost + Spider Monkey Optimization (SMO)
+Best Accuracy: 97.90%
+
+Evaluation Metrics:
+- Precision: ~95%+
+- Recall: ~95%+
+- F1-score: ~95%
+
+Multi-class classification across:
+- Benign
+- Phishing
+- Malware
+- Spam
+- Defacement
