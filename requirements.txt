@@ -1,11 +1,6 @@
-
----
-
-# 📄 requirements.txt
-
-```txt
 pandas
 numpy
 scikit-learn
 catboost
 matplotlib
+jupyter
